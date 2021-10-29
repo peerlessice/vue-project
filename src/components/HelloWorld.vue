@@ -64,4 +64,7 @@ li {
 a {
   color: #42b983;
 }
+main{
+  width:1000px
+}
 </style>
